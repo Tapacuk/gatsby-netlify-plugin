@@ -1,3 +1,0 @@
-[submodule "plugins/gatsby-source-umbraco"] 
-  path = plugins/gatsby-source-umbraco 
-  url = https://github.com/Tapacuk/gatsby-test-rebuild/tree/master/plugins/gatsby-source-umbraco-rest
