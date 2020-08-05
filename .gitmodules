@@ -1,3 +1,3 @@
 [submodule "gatsby-source-umbraco-rest"]
-	path = plugins/gatsby-source-umbraco
+	path = gatsby-source-umbraco-rest
 	url = https://github.com/Tapacuk/gatsby-source-umbraco-rest
